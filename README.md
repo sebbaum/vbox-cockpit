@@ -1,2 +1,2 @@
 # vbox-cockpit
-An adminstration GUI vor Vbox
+An adminstration GUI for Vbox
